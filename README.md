@@ -18,4 +18,6 @@ for i in range(numberOfLines):
 	for i in range(sum):
 		print(string)
 
+Close data file
+
 ```
